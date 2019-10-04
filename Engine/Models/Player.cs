@@ -14,6 +14,6 @@ namespace Engine.Models
         public int ExperiencePoints { get; set; }
         public int Level { get; set; }
         public int Gold { get; set; }
-        public int test { get; set; }
+        public int Test { get; set; }
     }
 }
